@@ -28,3 +28,9 @@ Right: 6
 I took an OOP approach. I decided to iterate over the 2D array until I found the very first instance of a 1. I then would determine
 validity of the shape by checking for 1's around. If still valid I would check for adjacent 1's until valid_blob ticker reached 0. This would allow the Blob to be safe until it reached 0, it begins at 9.
 
+
+# How to Run
+- Download and `cd` into directory
+- Run `python3 blob.py`
+- View answers in terminal!
+
